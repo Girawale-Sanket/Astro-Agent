@@ -1,0 +1,18 @@
+# --- Core Data & Astronomy ---
+numpy
+pandas
+matplotlib
+astropy
+astroquery
+
+# --- AI & Orchestration ---
+openai
+langchain
+langchain-openai
+python-dotenv
+
+# --- Web Interface (Optional but recommended) ---
+streamlit
+
+#--- For making chatbot ---
+python-dotenv
